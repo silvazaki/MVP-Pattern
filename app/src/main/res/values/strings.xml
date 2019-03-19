@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVP Pattern</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Pencarian</string>
+    <string name="title_activity_main">Film Baru</string>
+
+
+    <string name="y">Ya</string>
+    <string name="t">Tidak</string>
+    <string name="warning">Perhatian</string>
+</resources>
